@@ -1,0 +1,12 @@
+Procedimentos:
+
+1- Instale chessimo.exe
+2- Abra o Chessimo 3.40 Activation Patch.exe, selecione o local de instalação e abra o executavel para fazer o Patch.
+3- Abra o jogo e registre usando o código:
+
+	Usuário = Hermol
+	Key 	= 9745-H3UT-4GQA-T2NH
+
+5- Vá na janela help e clique em ativar
+
+6- Aproveite :) 

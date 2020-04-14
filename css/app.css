@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "AmazObitaemOstrovV-2";
+  src: url("/font/AmazObitaemOstrovV-2.eot?#iefix")
+      format("embedded-opentype"),
+    url("/font/AmazObitaemOstrovV-2.woff") format("woff"),
+    url("/font/AmazObitaemOstrovV-2.ttf") format("truetype"),
+    url("/font/AmazObitaemOstrovV-2.svg#AmazObitaemOstrovV.2")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  color: red;
+  text-align: center;
+}
+.center {
+  text-align: center;
+  font-family: AmazObitaemOstrovV-2;
+  font-size: 60px;
+}
+/*IMAGEN CENTRAL*/
+
+.imagencentral {
+  height: 500px;
+  width: 100%px;
+  background: url("/img/evangelion.gif");
+  background-repeat: no-repeat;
+  margin-top: 20%px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+  margin-left: 40%;
+}
+
+/**FLEX CONTAINER*/
+
+.flexcontainer {
+  display: flex;
+  flex: wrap;
+  background-color: blueviolet;
+}
